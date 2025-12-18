@@ -1,2 +1,5 @@
 # python-basics
-My first python programs while learning AIML
+This repository contains the basic Python programs that I learned during my AIML journey.
+
+Pragrams included :
+     ->  Odd or Even
